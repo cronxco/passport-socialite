@@ -1,9 +1,9 @@
 {
-    "name": "matt-allan/passport-socialite",
-    "description": "A socialite driver for Passport",
+    "name": "cronxco/passport-socialite",
+    "description": "A socialite driver for Passport, forked from Matt Allan",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/matt-allan/passport-socialite",
+    "homepage": "https://github.com/cronxco/passport-socialite",
     "authors": [
         {
             "name": "Matt Allan",
